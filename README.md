@@ -10,3 +10,6 @@ Got help from:
 - https://www.datacamp.com/community/tutorials/random-forests-classifier-python#building
 - Random Forest Algorithm - Random Forest Explained | Random Forest in Machine Learning | Simplilearn:
   https://youtu.be/eM4uJ6XGnSM
+
+Inspired from: Python Saati #94 - E-mail Classification using Machine Learning and Python:
+  https://twitter.com/pyistanbul/status/1149294608695877634
